@@ -1,4 +1,4 @@
-Esta es mi historia 
-mi nombre es Jazmin, tengo 20  años y quiero aprender 
-a usar la herramienta GIT
-nacion en Colombia
+esta mi historia
+
+mi nombre es Jazmin tengo 20 años 
+y estoy aprendiendo a programar 
